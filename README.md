@@ -1,2 +1,2 @@
 # e-news-website
-I developed this E-news website using HTML, CSS, JS and Bootstrap 4.
+I developed this news website using HTML, CSS, JS and Bootstrap 4.
